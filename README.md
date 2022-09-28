@@ -9,4 +9,10 @@ After scraping json data we are converting json data into dictionary
 The dictionary is converted into dataframe and the dataframe is saved into .csv file.
 
 The csv file is uploaded into tableau and dashboard for each team XG is created 
+
+Team 1 Xg:
 ![Screenshot (93)](https://user-images.githubusercontent.com/28213724/192712069-ea23f203-dbed-4925-b22f-de219ebb3828.png)
+
+Team 2 XG :
+![Screenshot (96)](https://user-images.githubusercontent.com/28213724/192712561-04fb9c77-13b8-4063-bad7-ee6d16bb73d2.png)
+
